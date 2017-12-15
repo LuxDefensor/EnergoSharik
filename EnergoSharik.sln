@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergoSharik", "EnergoSharik\EnergoSharik.csproj", "{7E32A5B6-487E-46F9-920F-0B59FC6499DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energosphere", "Energosphere\Energosphere.csproj", "{3E08F7CB-475A-49D5-AA07-B946D6E85817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E32A5B6-487E-46F9-920F-0B59FC6499DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E32A5B6-487E-46F9-920F-0B59FC6499DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E32A5B6-487E-46F9-920F-0B59FC6499DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
